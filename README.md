@@ -84,6 +84,14 @@ All data is stored locally using SharedPreferences:
 - Question rating system
 - Advanced search functionality
 
+## Output
+
+![image](https://github.com/user-attachments/assets/7ade05eb-2f3c-430e-8802-88d93e5bf7f8)
+![image](https://github.com/user-attachments/assets/4e0bdd0a-8576-4c0a-8008-c6275be5a883)
+![image](https://github.com/user-attachments/assets/f767ef8c-0b50-4ed5-b33e-5b016e84bfd1)
+![image](https://github.com/user-attachments/assets/d9545f01-2d48-4ecb-bff6-6f947762bcb9)
+
+
 ## License
 
 This project is licensed under the MIT License.
